@@ -4,7 +4,7 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/examdetails
+      uri: mongodb://localhost:27017/examdb
   kafka:
     bootstrap-servers: localhost:9092
     consumer:
