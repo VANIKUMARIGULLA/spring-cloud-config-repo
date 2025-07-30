@@ -11,9 +11,4 @@ spring:
         git:
           uri: https://github.com/VANIKUMARIGULLA/spring-cloud-config-repo
           default-label: main
-          clone-on-start: true
-
-eureka:
-  client:
-    register-with-eureka: false
-    fetch-registry: false
+          
